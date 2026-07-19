@@ -8,9 +8,9 @@ Learning is often easier and more enjoyable with a companion. HamPa connects peo
 
 ## Case Study
 
-The complete product design case study is available here:
+All case study files and supporting documents are available in the
 
-📄 [HamPa Case Study (Persian)](case-study/HamPa-Case-Study-FA.pdf)
+📂 [`case-study`](case-study/) directory.
 
 ## My Role
 
