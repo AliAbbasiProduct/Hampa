@@ -1,5 +1,7 @@
 # HamPa
 
+![HamPa Cover](assets/HamPa-Cover.jpg)
+
 **HamPa** is a mobile application designed to help people find learning partners, stay motivated, and achieve their learning goals together.
 
 ## Overview
