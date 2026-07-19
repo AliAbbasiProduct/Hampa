@@ -2,22 +2,34 @@
 
 ![HamPa Cover](assets/HamPa-Cover.jpg)
 
-**HamPa** is a mobile application designed to help people find learning partners, stay motivated, and achieve their learning goals together.
+**HamPa** is a mobile application that helps people find learning partners, stay motivated, and achieve their learning goals together.
 
-## Overview
+---
 
-Learning is often easier and more enjoyable with a companion. HamPa connects people with compatible learning partners based on their interests, goals, and learning preferences.
+## ✨ Overview
 
-## Case Study
+Learning is easier and more enjoyable with the right companion. HamPa connects people with compatible learning partners based on their interests, goals, and learning preferences.
 
-All case study files and supporting documents are available in the
+---
 
-📂 [`case-study`](case-study/) directory.
+## 👨‍💻 My Role
 
-## My Role
-
-- Product Designer
+- Product Design
 - UX Research
 - UX/UI Design
 - Prototyping
 - Usability Testing
+
+---
+
+## 📂 Repository Structure
+
+- 📁 `case-study` — Product design case study and documentation
+- 📁 `design` — Design assets, UI Kit, and design resources
+- 📁 `assets` — Images used in the repository
+
+---
+
+## 📄 Documentation
+
+Explore the complete case study and supporting documents in the **case-study** directory.
